@@ -14,3 +14,4 @@ class Solution:
                 ans=max(ans,height*width)
             st.append(i)
         return ans
+        
